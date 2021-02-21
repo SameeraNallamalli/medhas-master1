@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19C57" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AttendanceStatus" representedClassName="AttendanceStatus" syncable="YES" codeGenerationType="class">
+        <attribute name="modelData" optional="YES" attributeType="Transformable"/>
+    </entity>
+    <entity name="DropDownLists" representedClassName="DropDownLists" syncable="YES" codeGenerationType="class">
+        <attribute name="model" optional="YES" attributeType="Transformable"/>
+    </entity>
+    <entity name="LocalVariables" representedClassName="LocalVariables" syncable="YES" codeGenerationType="class">
+        <attribute name="extra" optional="YES" attributeType="String"/>
+        <attribute name="model" optional="YES" attributeType="Transformable"/>
+    </entity>
+    <entity name="ProfileData" representedClassName="ProfileData" syncable="YES" codeGenerationType="class">
+        <attribute name="model" optional="YES" attributeType="Transformable"/>
+        <attribute name="userID" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="DropDownLists" positionX="-54" positionY="9" width="128" height="58"/>
+        <element name="LocalVariables" positionX="-54" positionY="9" width="128" height="73"/>
+        <element name="ProfileData" positionX="-63" positionY="-18" width="128" height="73"/>
+        <element name="AttendanceStatus" positionX="-54" positionY="9" width="128" height="58"/>
+    </elements>
+</model>
